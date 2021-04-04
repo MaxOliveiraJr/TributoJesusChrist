@@ -62,13 +62,18 @@ section{
     margin: 30px;
 }
 
+figure{
+    border:1px solid #a6726d;
+    border-radius: 5px;
+    color:#a6726d ;
+    text-align: center;
+    
 
+    padding: 10px;
+}
 img{
     width: 250px;
     height: auto;
-    border-radius: 5px;
-    border:1px solid #a6726d;
-    padding: 10px;
 }
 
 .conteudo{
